@@ -26,6 +26,15 @@ Durante esse primeiro desafio do Bootcamp GoStack 12, foi proposto a criação d
 - Pode ser definido como um interceptador de requisições, que pode: interromper totalmente uma requisição ou alterar dados dela, é muito utilizado para realizar validações dentro dos métodos, e garantir que o usuário está passando os parâmetros corretamente. Também pode ser utilizado para analisar o tempo de resposta dos métodos, e o que está sendo passado como parâmetro.
 
 
+# Utilização do projeto
+- Para conseguir usar o projeto em sua máquina, basta realizar um git clone do projeto:
+``` https://github.com/guivicentep/Desafio01 ``` 
+
+- Logo após, instalar as dependências do projeto, utilizando o comando ```yarn``` 
+
+- Para realizar os testes, e validar o funcionamento, podemos utilizar o Insomnia, ou utilizar o seguinte comando:
+``` yarn test ```
+
  
 
 
